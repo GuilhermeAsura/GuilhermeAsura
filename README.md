@@ -9,7 +9,7 @@
 
 ---
 
-## ⚙️👨‍💻 Mechatronics Engineer Student | Researcher in Embedded Systems, AI & Robotics
+## ⚙️👨‍💻 Mechatronics Engineer Student | Embedded Systems, AI & Robotics
 
 As a Mechatronics Engineer Student at Federal University of Uberlândia my focus is on embedded systems, artificial intelligence and robotics. My work current is on merging cutting-edge technologies like deep learning and IoT with hands-on engineering to solve complex challenges—whether optimizing robotic algorithms or designing firmware telemetry systems. For me, engineering is about turning theoretical concepts into tangible innovations that push boundaries.
 
