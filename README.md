@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=~%24+Hello+world!;I+am+Guilherme+Lazzarini;Mechatronics+Engineering+Student;Embedded+Systems+%7C+AI+%7C+Robotics&repeat=true&multiline=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=~%24+Hello+world!;I+am+Guilherme+Lazzarini+_&repeat=true&multiline=false" alt="Typing SVG" />
 </div>
 
 <a href="https://www.linkedin.com/in/guilherme-maximiano-s-lazzarini-b26a9b277/">
