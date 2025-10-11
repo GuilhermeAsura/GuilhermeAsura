@@ -1,5 +1,6 @@
-
-# ~$Hello world! I am Guilherme Lazzarini_
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=~%24+Hello+world!;I+am+Guilherme+Lazzarini;Mechatronics+Engineering+Student;Embedded+Systems+%7C+AI+%7C+Robotics&repeat=true&multiline=false" alt="Typing SVG" />
+</div>
 
 <a href="https://www.linkedin.com/in/guilherme-maximiano-s-lazzarini-b26a9b277/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
