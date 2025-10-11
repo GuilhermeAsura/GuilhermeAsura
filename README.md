@@ -27,5 +27,7 @@ Mechatronics Engineering student at the Federal University of Uberlândia, I'm p
 ![ESP32](https://img.shields.io/badge/ESP32-2F2F2F?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAsura&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAsura&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAsura&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAsura&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</div>
