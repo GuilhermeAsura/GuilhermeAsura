@@ -12,7 +12,7 @@
 </a>
 
 
-Mechatronics Engineering student at the Federal University of Uberlândia, I'm passionate about embedded systems, artificial intelligence, robotics, and creating intelligent solutions through code. My projects and research involve developing embedded firmware in C/C++ for STM32 and ESP32 microcontrollers and exploring deep learning applications in robotic locomotive operation. I'm driven by the challenge of transforming ideas into intelligent systems that combine hardware and software, constantly striving for innovation and empowering machines to think and act independently.
+Mechatronics Engineering student at the University of São Paulo, I'm passionate about embedded systems, artificial intelligence, robotics, and creating intelligent solutions through code. My projects and research involve developing embedded firmware in C/C++ for STM32 and ESP32 microcontrollers and exploring deep learning applications in robotic locomotive operation. I'm driven by the challenge of transforming ideas into intelligent systems that combine hardware and software, constantly striving for innovation and empowering machines to think and act independently.
 
 ---
 
