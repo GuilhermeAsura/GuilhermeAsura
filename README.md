@@ -31,6 +31,6 @@ Mechatronics Engineering student at the University of São Paulo, I'm passionate
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAsura&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAsura&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=GuilhermeAsura&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuilhermeAsura&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </div>
